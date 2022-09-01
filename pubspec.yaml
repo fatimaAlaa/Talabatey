@@ -29,6 +29,11 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  google_nav_bar: ^5.0.6
+  animated_bottom_navigation_bar: ^1.1.0
+  circular_bottom_navigation: ^2.1.0
+
+
 
 
   # The following adds the Cupertino Icons font to your application.
@@ -71,6 +76,11 @@ flutter:
      - images/Photos/pizza.jpeg
      - images/Photos/burger.jpg
      - images/Photos/rest.jpg
+     - images/Photos/ResDetails.jpg
+     - images/Photos/restu.jpg
+     - images/Photos/bbq.jpg
+     - images/Photos/burger1.jpg
+     - images/Photos/Logo_NObg.png
 
   #   - images/a_dot_ham.jpeg
 

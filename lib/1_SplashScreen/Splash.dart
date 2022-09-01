@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:talabatey/HomeScreen/Home.dart';
+import 'package:talabatey/2_RegisterPage/Register.dart';
+import 'package:talabatey/3_HomeScreen/Home.dart';
 
 class Splash extends StatefulWidget {
   @override
@@ -23,7 +24,7 @@ class _SplashState extends State<Splash> {
     return Scaffold(
       backgroundColor: Color(0xfff6323e),
       body: Center(
-        child: Image.asset("images/photos/TalabateyLogo.png",width: 150,height: 150,),
+        child: Image.asset("images/Photos/TalabateyLogo.png",width: 150,height: 150,),
       ),
     );
   }
